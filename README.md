@@ -4,5 +4,7 @@ Hello! My name is Evan Ristani, and I'm currently a senior at EPHS. My main inte
 ## Winter 2021 - Spring 2022 
 
 OH THE HORROR - Placeholder name 
+  
+This game is an experimental ClickerGame with eldritch horror-like themes and elements. 
 
 WIP Clickergame with eldritch horror-like themes. 
