@@ -1,7 +1,7 @@
 ## INTRODUCTION 
 Hello! My name is Evan Ristani, and I'm currently a senior at EPHS. My main interest in computer science is the opportunity it offers to combine my other passions for art, animation, and music together to create new forms of media. 
 
-## Projects 
+## Computer Science Projects 
 
 **WINTER 2020 - SPRING 2021**
 
