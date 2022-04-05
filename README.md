@@ -8,7 +8,7 @@ First Fantasy - a turnbased action RPG game
 This app was created within my AP CSP class, using basic block code in order to make a final product. Though the app itself is incomplete, I am happy with the progress I was able to make within such a limited platform. I developed a system where the player could use multiple different items and attacks against an enemy. Each different attack and item would have different properies. Some attacks would do more damage to the enemies armor stat, allowing for more damage to be dealt with other attacks. 
 Though this system was still very flawed and needed to be balanced out more, I still believe it makes for an enjoyable, if not limited, experiece. 
 
-<img src="https://user-images.githubusercontent.com/95647441/161791715-a5bc1ca9-748f-4001-8614-e31620711914.jpg" width=15% height=15%>
+<img src="https://user-images.githubusercontent.com/95647441/161791715-a5bc1ca9-748f-4001-8614-e31620711914.jpg" width=25% height=25%>
 ## Winter 2021 - Spring 2022 
 
 OH THE HORROR - Placeholder name 
@@ -41,5 +41,5 @@ https://user-images.githubusercontent.com/95647441/161836410-1afad42a-ef7d-4329-
 
 Besides music, I also have a limited amount of experience with art and drawing. Below is an example of my work. 
 
-<img src="https://user-images.githubusercontent.com/95647441/161837042-00fcbc2f-bd59-401f-a774-d45c99d9df58.jpg">
+<img src="https://user-images.githubusercontent.com/95647441/161837042-00fcbc2f-bd59-401f-a774-d45c99d9df58.jpg" width=50% height=50%>
 
