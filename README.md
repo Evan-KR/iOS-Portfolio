@@ -1,7 +1,9 @@
 ## INTRODUCTION 
 Hello! My name is Evan Ristani, and I'm currently a senior at EPHS. My main interest in computer science is the opportunity it offers to combine my other passions for art, animation, and music together to create new forms of media. 
 
-## Winter 2020 - Sprint 2021
+## Projects 
+
+**Winter 2020 - Sprint 2021**
 
 First Fantasy - a turnbased action RPG game 
 
@@ -9,7 +11,8 @@ This app was created within my AP CSP class, using basic block code in order to 
 Though this system was still very flawed and needed to be balanced out more, I still believe it makes for an enjoyable, if not limited, experiece. 
 
 <img src="https://user-images.githubusercontent.com/95647441/161791715-a5bc1ca9-748f-4001-8614-e31620711914.jpg" width=25% height=25%>
-## Winter 2021 - Spring 2022 
+
+**Winter 2021 - Spring 2022**
 
 OH THE HORROR - Placeholder name 
   
@@ -39,7 +42,8 @@ https://user-images.githubusercontent.com/95647441/161835410-7c282c6a-6d60-4ce5-
 
 https://user-images.githubusercontent.com/95647441/161836410-1afad42a-ef7d-4329-91f1-51b0270c557a.mp4
 
-Besides music, I also have a limited amount of experience with art and drawing. Below is an example of my work. 
+**FALL 2021**
+Besides music, I also have a limited amount of experience with art and drawing. Below is an example of my work.
 
 <img src="https://user-images.githubusercontent.com/95647441/161837042-00fcbc2f-bd59-401f-a774-d45c99d9df58.jpg">
 
