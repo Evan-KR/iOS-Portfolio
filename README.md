@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/95647441/161835065-4f5f4b6a-6d80-4c66-8719-af89a2195eef.mp4
+
 ## INTRODUCTION 
 Hello! My name is Evan Ristani, and I'm currently a senior at EPHS. My main interest in computer science is the opportunity it offers to combine my other passions for art, animation, and music together to create new forms of media. 
 
@@ -29,3 +33,13 @@ Other features are still in development, such as:
 * Add points for time app is not running 
 * Implimenting UI elements and assets 
 * Adding a story with interactive elements based upon the gameplay
+
+## MISC Accomlishments 
+Outside of computer science I have had a passion for music and art. Below are a few examples of songs I have worked on in the past. Though they aren't complete, I am still proud of how they turned out. 
+
+
+https://user-images.githubusercontent.com/95647441/161835138-9ff060a4-425e-42b8-aa03-0bcdec4fd868.mp4
+
+
+Uploading Test1.mp4…
+
