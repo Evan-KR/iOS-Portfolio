@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/95647441/161835065-4f5f4b6a-6d80-4c66-8719-af89a2195eef.mp4
-
 ## INTRODUCTION 
 Hello! My name is Evan Ristani, and I'm currently a senior at EPHS. My main interest in computer science is the opportunity it offers to combine my other passions for art, animation, and music together to create new forms of media. 
 
@@ -37,9 +33,13 @@ Other features are still in development, such as:
 ## MISC Accomlishments 
 Outside of computer science I have had a passion for music and art. Below are a few examples of songs I have worked on in the past. Though they aren't complete, I am still proud of how they turned out. 
 
-
 https://user-images.githubusercontent.com/95647441/161835138-9ff060a4-425e-42b8-aa03-0bcdec4fd868.mp4
 
+https://user-images.githubusercontent.com/95647441/161835410-7c282c6a-6d60-4ce5-87e5-d4065f6ae886.mp4
 
-Uploading Test1.mp4…
+https://user-images.githubusercontent.com/95647441/161836410-1afad42a-ef7d-4329-91f1-51b0270c557a.mp4
+
+Besides music, I also have a limited amount of experience with art and drawing. Below is an example of my work. 
+
+<img src="https://user-images.githubusercontent.com/95647441/161837042-00fcbc2f-bd59-401f-a774-d45c99d9df58.jpg" width=15% height=15%>
 
