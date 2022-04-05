@@ -34,7 +34,7 @@ Other features are still in development, such as:
 * Adding a story with interactive elements based upon the gameplay
 
 ## MISC Accomlishments 
-Outside of computer science I have had a passion for music and art. Below are a few examples of songs I have worked on in the past. Though they aren't complete, I am still proud of how they turned out. 
+Outside of computer science I have had a passion for music and art. Below are a few examples of songs I have worked on in the past. Though they aren't complete, I am still proud of how they turned out. (Please note, visuals are not mine)
 
 **WINTER 2019 - SPRING 2020**
 
