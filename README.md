@@ -46,7 +46,6 @@ https://user-images.githubusercontent.com/95647441/161836410-1afad42a-ef7d-4329-
 
 https://user-images.githubusercontent.com/95647441/161835138-9ff060a4-425e-42b8-aa03-0bcdec4fd868.mp4
 
-
 **FALL 2021**
 
 Besides music, I also have a limited amount of experience with art and drawing. Below is an example of my work.
