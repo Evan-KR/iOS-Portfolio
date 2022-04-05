@@ -41,5 +41,5 @@ https://user-images.githubusercontent.com/95647441/161836410-1afad42a-ef7d-4329-
 
 Besides music, I also have a limited amount of experience with art and drawing. Below is an example of my work. 
 
-<img src="https://user-images.githubusercontent.com/95647441/161837042-00fcbc2f-bd59-401f-a774-d45c99d9df58.jpg" width=75% height=75%>
+<img src="https://user-images.githubusercontent.com/95647441/161837042-00fcbc2f-bd59-401f-a774-d45c99d9df58.jpg">
 
