@@ -15,3 +15,9 @@ Some notable achievements I have made during the course of the games development
 * Learned how to use timers as well as element objects within SwiftUI to update 
 * Learned how to impliment views to help organize my code
 * Learned how to develop a basic UI 
+
+Other features are still in development, such as:
+* Ability to store data persistantly 
+* Add points for time app is not running 
+* Implimenting UI elements and assets 
+* Adding a story with interactive elements based upon the gameplay
