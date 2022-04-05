@@ -1,6 +1,16 @@
 ## INTRODUCTION 
 Hello! My name is Evan Ristani, and I'm currently a senior at EPHS. My main interest in computer science is the opportunity it offers to combine my other passions for art, animation, and music together to create new forms of media. 
 
+## Winter 2020 - Sprint 2021
+
+First Fantasy - a turnbased action RPG game 
+
+This app was created within my AP CSP class, using basic block code in order to make a final product. Though the app itself is incomplete, I am happy with the progress I was able to make within such a limited platform. I developed a system where the player could use multiple different items and attacks against an enemy. Each different attack and item would have different properies. Some attacks would do more damage to the enemies armor stat, allowing for more damage to be dealt with other attacks. 
+Though this system was still very flawed and needed to be balanced out more, I still believe it makes for an enjoyable, if not limited, experiece. 
+
+
+
+
 ## Winter 2021 - Spring 2022 
 
 OH THE HORROR - Placeholder name 
