@@ -3,7 +3,7 @@ Hello! My name is Evan Ristani, and I'm currently a senior at EPHS. My main inte
 
 ## Projects 
 
-**Winter 2020 - Sprint 2021**
+**WINTER 2020 - SPRING 2021**
 
 First Fantasy - a turnbased action RPG game 
 
@@ -12,7 +12,7 @@ Though this system was still very flawed and needed to be balanced out more, I s
 
 <img src="https://user-images.githubusercontent.com/95647441/161791715-a5bc1ca9-748f-4001-8614-e31620711914.jpg" width=25% height=25%>
 
-**Winter 2021 - Spring 2022**
+**WINTER 2021 - SPRING 2022**
 
 OH THE HORROR - Placeholder name 
   
