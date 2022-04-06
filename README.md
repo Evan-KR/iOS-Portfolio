@@ -1,5 +1,5 @@
 ## INTRODUCTION 
-Hello! My name is Evan Ristani, and I'm currently a senior at EPHS. My main interest in computer science is the opportunity it offers to combine my other passions for art, animation, and music together to create new forms of media. 
+Hello! My name is Evan Ristani, and I'm currently a senior at Eden Prairie High School. My main interest in computer science is the opportunity it offers to combine my other passions for art, animation, and music together to create new forms of media. 
 
 # Computer Science Projects 
 
@@ -15,29 +15,29 @@ Though this system was still very flawed and needed to be balanced out more, I s
 **WINTER 2021 - SPRING 2022**
 
 ## [OH THE HORROR - Clicker Game](https://github.com/EvanRista/OhTheHorror)  
-This game is an experimental ClickerGame with eldritch horror-like themes and elements. 
+This game is an experimental Clicker-Game with eldritch horror-like themes and elements. 
  
 Throughout the development, I have learned a lot about app creation, time management, and team coordination. 
 Additionally, I have learned how to set realistic expectations for myself and for my team, allowing us to make the best product we could. 
  
-Some notable achievements I have made during the course of the games development so far are:
+Some notable achievements I have made during the games' development so far are:
 * Developed a theme & create an (incomplete) soundtrack to compliment the games main theme 
 * Learned how to use timers as well as element objects within SwiftUI to update 
 * Learned how to implement views to help organize my code
 * Learned how to develop a basic UI 
 
 Other features are still in development, such as:
-* Ability to store data persistantly 
+* Ability to store data persistently  
 * Add points for time app is not running 
 * Implementing UI elements and assets 
 * Adding a story with interactive elements based upon the gameplay
 
 **FALL 2021 - WINTER 2021**
 
-## [Advant of Code](https://github.com/EvanRista/AdventJava)
+## [Advent of Code](https://github.com/EvanRista/AdventJava)
 Outside of app development, I also have experience with Java. Throughout my time with the language, I have learned how to manipulate and use different data types in order to achieve a desired result. This may be sorting through an array of data in order to find a pattern within, or just making the data more readable and understandable based on inputted values. 
 
-# MISC Accomlishments 
+# MISC Accomplishments 
 Outside of computer science I have had a passion for music and art. Below are a few examples of songs I have worked on in the past. Though they aren't complete, I am still proud of how they turned out. (Please note, visuals are not mine)
 
 **WINTER 2019 - SPRING 2020**
