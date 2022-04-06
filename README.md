@@ -14,7 +14,7 @@ Though this system was still very flawed and needed to be balanced out more, I s
 
 **WINTER 2021 - SPRING 2022**
 
-[## OH THE HORROR - Clicker Game](url)  
+[## OH THE HORROR - Clicker Game](https://github.com/EvanRista/OhTheHorror)  
 This game is an experimental ClickerGame with eldritch horror-like themes and elements. 
  
 Throughout the development, I have learned a lot about app creation, time management, and team coordination. 
@@ -34,7 +34,7 @@ Other features are still in development, such as:
 
 **FALL 2021 - WINTER 2021**
 
-[## Advant of Code](url)
+[## Advant of Code](https://github.com/EvanRista/AdventJava)
 Outside of app development, I also have experience with Java. Throughout my time with the language, I have learned how to manipulate and use different data types in order to achieve a desired result. This may be sorting through an array of data in order to find a patern within, or just making the data more readable and understandable based on inputed values. 
 
 # MISC Accomlishments 
