@@ -14,8 +14,7 @@ Though this system was still very flawed and needed to be balanced out more, I s
 
 **WINTER 2021 - SPRING 2022**
 
-## OH THE HORROR - Placeholder name 
-  
+[## OH THE HORROR - Clicker Game](url)  
 This game is an experimental ClickerGame with eldritch horror-like themes and elements. 
  
 Throughout the development, I have learned a lot about app creation, time management, and team coordination. 
