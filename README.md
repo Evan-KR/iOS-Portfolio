@@ -32,6 +32,11 @@ Other features are still in development, such as:
 * Implimenting UI elements and assets 
 * Adding a story with interactive elements based upon the gameplay
 
+**FALL 2021 - WINTER 2021**
+
+[## Advant of Code](url)
+Outside of app development, I also have experience with Java. Throughout my time with the language, I have learned how to manipulate and use different data types in order to achieve a desired result. This may be sorting through an array of data in order to find a patern within, or just making the data more readable and understandable based on inputed values. 
+
 # MISC Accomlishments 
 Outside of computer science I have had a passion for music and art. Below are a few examples of songs I have worked on in the past. Though they aren't complete, I am still proud of how they turned out. (Please note, visuals are not mine)
 
