@@ -32,6 +32,37 @@ Other features are still in development, such as:
 * Implementing UI elements and assets 
 * Adding a story with interactive elements based upon the gameplay
 
+**SPRING 2022 - SUMMER 2022**
+
+## [Crusader Dungeon - Dungeon Crawler]
+My plan for this game was to be a turn based dungeon crawler/rogue-like, similar to Binding Of Isaac, and other games in that genre. 
+
+Throughout the development of the game, I learned how to set realistic goals for myself. At the beginning of the development, I had ambitious plans for my project. As time went on though, I came to realize that I could not implement every feature I wanted by myself. As a result, I had to focus on the main gameplay features before working on extra "fluff" and content. 
+
+The main things learned from the development of the app include:
+* Learning how to develop a good-looking UI and making it intuitive to use 
+* Automatically scaling the UI based on the device screen size 
+* Generate levels with a range of heights and widths
+* Create an array of interact-able objects
+* How to display useful information to the player
+* Basic path-finding 
+
+Through the short time I spent working on the app, I believe I was able to accomplish a lot. The app is further along in development compared to Oh The Horror, and is in a fairly stable state though most of the features are not fully implimented. 
+
+If I were to continue working on the app, I would like to add a number of features, including; 
+* interact-able map that displays the player's location, as well as location of rooms not yet explored by the player 
+* Number of different enemy types that interact with the environment and player differently
+* Improved path-finding
+* Interactions between the player and AI enemies. 
+* Items and abilities for the player to utilize 
+* Obstacles
+
+Overall, I am proud of the progress I have made on the short development period. 
+
+![gameplay](https://user-images.githubusercontent.com/95647441/171934553-9ef5329a-383e-4e8a-aaae-c839bda2f0f5.gif)
+
+
+
 **FALL 2021 - WINTER 2021**
 
 ## [Advent of Code](https://github.com/EvanRista/AdventJava)
