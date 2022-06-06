@@ -57,7 +57,7 @@ If I were to continue working on the app, I would like to add a number of featur
 * Items and abilities for the player to utilize 
 * Obstacles
 
-Overall, I am proud of the progress I have made on the short development period. 
+Overall, I am proud of the progress I have made over the short development period. 
 
 ![gameplay](https://user-images.githubusercontent.com/95647441/171934553-9ef5329a-383e-4e8a-aaae-c839bda2f0f5.gif)
 
