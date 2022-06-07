@@ -37,7 +37,7 @@ Other features are still in development, such as:
 ## [Crusader Dungeon - Dungeon Crawler](https://github.com/EvanRista/Crusader-Dungeon)
 My plan for this game was to be a turn based dungeon crawler/rogue-like, similar to Binding Of Isaac, and other games in that genre. 
 
-Throughout the development of the game, I learned how to set realistic goals for myself. At the beginning of the development, I had ambitious plans for my project. As time went on though, I came to realize that I could not implement every feature I wanted by myself. As a result, I had to focus on the main gameplay features before working on extra "fluff" and content. 
+Throughout the development of the game, I learned how to set realistic goals for myself. At the beginning of the development I had ambitious plans for my project. As time went on though, I came to realize that I could not implement every feature I wanted by myself. As a result, I had to focus on the main gameplay features before working on extra "fluff" and content. 
 
 The main things learned from the development of the app include:
 * Learning how to develop a good-looking UI and making it intuitive to use 
