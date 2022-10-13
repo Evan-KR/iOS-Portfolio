@@ -1,5 +1,5 @@
 ## INTRODUCTION 
-Hello! My name is Evan K Ristani, and I'm a graduate from Eden Prairie High School, and I'm currently enrolled to the University of Minnesota School of Liberal Arts, majoring in Computer Science. My main interest in computer science is the opportunity it offers to combine my other passions for art, animation, and music together to create new forms of media. 
+Hello! My name is Evan Krelando Ristani, and I'm a graduate from Eden Prairie High School, and I'm currently enrolled to the University of Minnesota School of Liberal Arts, majoring in Computer Science. My main interest in computer science is the opportunity it offers to combine my other passions for art, animation, and music together to create new forms of media. 
 
 # Computer Science Projects 
 
