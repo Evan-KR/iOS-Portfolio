@@ -67,23 +67,3 @@ Overall, I am proud of the progress I have made over the short development perio
 
 ## [Advent of Code](https://github.com/EvanRista/AdventJava)
 Outside of app development, I also have experience with Java. Throughout my time with the language, I have learned how to manipulate and use different data types in order to achieve a desired result. This may be sorting through an array of data in order to find a pattern within, or just making the data more readable and understandable based on inputted values. 
-
-# MISC Accomplishments 
-Outside of computer science I have had a passion for music and art. Below are a few examples of songs I have worked on in the past. Though they aren't complete, I am still proud of how they turned out. (Please note, visuals are not mine)
-
-**WINTER 2019 - SPRING 2020**
-
-https://user-images.githubusercontent.com/95647441/161835410-7c282c6a-6d60-4ce5-87e5-d4065f6ae886.mp4
-
-https://user-images.githubusercontent.com/95647441/161836410-1afad42a-ef7d-4329-91f1-51b0270c557a.mp4
-
-**WINTER 2021 - SPRING 2022** 
-
-https://user-images.githubusercontent.com/95647441/161835138-9ff060a4-425e-42b8-aa03-0bcdec4fd868.mp4
-
-**FALL 2021**
-
-Besides music, I also have a limited amount of experience with art and drawing. Below is an example of my work.
-
-<img src="https://user-images.githubusercontent.com/95647441/161837042-00fcbc2f-bd59-401f-a774-d45c99d9df58.jpg">
-
